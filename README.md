@@ -56,6 +56,7 @@ my-startup-idea/
         └── mvp-test-strategist/
             └── SKILL.md
 ```
+```text
 --------------------------------------------------------------------------------
 🧠 The Framework Sequence
 When you launch the orchestrator, it runs a 4-phase sequence. At critical bottlenecks, the pipeline halts
@@ -95,6 +96,7 @@ niche and single marketing channel for overwhelming local superiority.
 /mvp-test-strategist: Rejects heavy software engineering in favor of a zero-code Minimum Viable Test (Smoke
 Test, Concierge, or Wizard of Oz). Uses tool calling to physically generate your launch blueprint and test.
 --------------------------------------------------------------------------------
+```
 🛠️ How to Install and Run (For Non-Technical Users)
 You do not need to be a developer to run this, but you do need to use the terminal. Follow these simple
 steps:
