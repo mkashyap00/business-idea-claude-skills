@@ -1,0 +1,11 @@
+{
+  "skill_name": "macro-risk-analyst",
+  "evals": [
+    {
+      "id": "biometric-privacy-check",
+      "prompt": "INSTRUCTIONS FOR THIS TEST: Do not attempt to use the Read tool to find 'approved_wedge.md'. Evaluate the following wedge directly based on the text provided: A brick-and-mortar coffee shop that uses AI facial recognition to assess how sleep-deprived customers are as they walk in, automatically brewing them a dynamically priced energy drink.",
+      "expected_output": "The response MUST flag severe legal and regulatory risks regarding biometric data privacy laws (like GDPR or CCPA) as an existential threat."
+    }
+  ]
+}
+
